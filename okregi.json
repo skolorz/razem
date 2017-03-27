@@ -9,7 +9,7 @@
             "lubański",
             "lwówecki",
             "zgorzelecki",
-			"Jelenia Góra"
+            "Jelenia Góra"
          ]
       },
       {  
@@ -21,19 +21,19 @@
             "lubińskiego",
             "polkowickiego",
             "złotoryjskiego",
-			"Legnica"
+            "Legnica"
          ]
       },
       {  
          "nazwa":"Wałbrzyski",
-        "powiaty": [
+         "powiaty":[  
             "dzierżoniowski",
             "kłodzki",
             "świdnicki",
             "wałbrzyski",
             "ząbkowicki",
             "Wałbrzych"
-        ]
+         ]
       },
       {  
          "nazwa":"Wrocławski",
@@ -54,7 +54,7 @@
    "kujawsko-pomorskie":[  
       {  
          "nazwa":"Bydgoski",
-        "powiaty": [
+         "powiaty":[  
             "bydgoski",
             "inowrocławski",
             "mogileński",
@@ -64,7 +64,7 @@
             "tucholski",
             "żniński",
             "Bydgoszcz"
-        ]
+         ]
       },
       {  
          "nazwa":"Toruński",
@@ -143,8 +143,9 @@
       }
    ],
    "małopolskie":[  
-      { "nazwa":"Krakowski",
-        "powiaty": [
+      {  
+         "nazwa":"Krakowski",
+         "powiaty":[  
             "chrzanowski",
             "myślenicki",
             "oświęcimski",
@@ -160,10 +161,11 @@
             "nowotarski",
             "tatrzański",
             "Nowy Sącz"
-        ]
-},
-     { "nazwa":"Tarnowski",
-        "powiaty": [
+         ]
+      },
+      {  
+         "nazwa":"Tarnowski",
+         "powiaty":[  
             "bocheński",
             "brzeski",
             "dąbrowski",
@@ -171,8 +173,8 @@
             "tarnowski",
             "wielicki",
             "Tarnów"
-        ]
-} 
+         ]
+      }
    ],
    "opolskie":[  
       {  
@@ -226,14 +228,37 @@
       },
       {  
          "nazwa":"Częstochowski",
-         "nazwa-wyborczy":"Częstochowa"
+         "powiaty":[  
+            "częstochowski",
+            "kłobucki",
+            "lubliniecki",
+            "myszkowski",
+            "Częstochowa"
+         ]
       },
       {  
          "nazwa":"Katowicki",
-         "nazwa-wyborczy":[  
+         "powiaty":[  
+            "gliwicki",
+            "tarnogórski",
+            "Bytom",
             "Gliwice",
+            "Zabrze",
+            "mikołowski",
+            "raciborski",
+            "rybnicki",
+            "wodzisławski",
+            "Jastrzębie-Zdrój",
+            "Rybnik",
+            "Żory",
+            "Chorzów",
             "Katowice",
-            "Rybnik"
+            "Mysłowice",
+            "Piekary Śląskie",
+            "Ruda Śląska",
+            "Siemianowice Śląskie",
+            "Świętochłowice",
+            "Tychy"
          ]
       },
       {  
