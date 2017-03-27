@@ -108,7 +108,32 @@
       }
    ],
    "łódzkie":[  
-      "Łódzki",
+       { "nazwa":"Łódzki",
+        "powiaty": [
+            "brzeziński",
+            "łódzki wschodni",
+            "Łódź",
+            "bełchatowski",
+            "opoczyński",
+            "piotrkowski",
+            "radomszczański",
+            "rawski",
+            "tomaszowski",
+            "Piotrków Trybunalski",
+            "kutnowski",
+            "łaski",
+            "łęczycki",
+            "łowicki",
+            "pabianicki",
+            "pajęczański",
+            "poddębicki",
+            "sieradzki",
+            "wieluński",
+            "wieruszowski",
+            "zduńskowolski",
+            "zgierski"
+        ]
+       },
       {  
          "nazwa":"Skierniewicki",
          "powiaty":[  
