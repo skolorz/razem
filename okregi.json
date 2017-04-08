@@ -15,12 +15,12 @@
       {  
          "nazwa":"Legnicki",
          "powiaty":[  
-            "głogowskiego",
-            "jaworskiego",
-            "legnickiego",
-            "lubińskiego",
-            "polkowickiego",
-            "złotoryjskiego",
+            "głogowski",
+            "jaworski",
+            "legnicki",
+            "lubiński",
+            "polkowicki",
+            "złotoryjski",
             "Legnica"
          ]
       },
@@ -69,6 +69,7 @@
       {  
          "nazwa":"Toruński",
          "powiaty":[  
+            "toruński",
             "aleksandrowski",
             "brodnicki",
             "chełmiński",
@@ -158,7 +159,18 @@
             "żyrardowski"
          ]
       },
-      "Radomski",
+      { "nazwa":"Radomski",
+            "powiaty": [
+              "białobrzeski",
+              "kozienicki",
+              "lipski",
+              "przysuski",
+              "radomski",
+              "szydłowiecki",
+              "zwoleński",
+              "Radom"
+            ]
+      },
       {  
          "nazwa":"Warszawski",
          "powiaty":[  
@@ -185,19 +197,19 @@
             "nowosądecki",
             "nowotarski",
             "tatrzański",
-            "Nowy Sącz"
+            "Nowy Sącz",
+            "bocheński",
+            "proszowicki",
+            "wielicki"
          ]
       },
       {  
          "nazwa":"Tarnowski",
          "powiaty":[  
-            "bocheński",
-            "brzeski",
-            "dąbrowski",
-            "proszowicki",
+            "Tarnów",
             "tarnowski",
-            "wielicki",
-            "Tarnów"
+            "brzeski",
+            "dąbrowski"
          ]
       }
    ],
@@ -223,12 +235,33 @@
          "powiaty":[  
             "przemyski",
             "jarosławski",
-            "przeworskia",
+            "przeworski",
             "lubaczowski"
          ]
       },
-      "Rzeszowski",
-      "Bieszczadzki"
+      { "nazwa":"Rzeszowski",
+          "powiaty": [
+              "Rzeszów",
+              "dębicki",
+              "leżajski",
+              "łańcucki",
+              "niżański",
+              "ropczycko-sędziszowski",
+              "rzeszowski",
+              "strzyżowski"
+          ]
+      },
+      { "nazwa":"Bieszczadzki",
+         "powiaty": [
+          "bieszczadzki",
+          "brzozowski",
+          "jasielski",
+          "krośnieński",
+          "leski",
+          "sanocki"
+         ]
+
+      } 
    ],
    "podlaskie":[  
       {  
@@ -237,7 +270,19 @@
       }
    ],
    "pomorskie":[  
-      "Gdański",
+       { "nazwa":"Gdański",
+            "powiaty": [
+              "gdański",
+              "kwidzyński",
+              "malborski",
+              "nowodworski",
+              "starogardzki",
+              "sztumski",
+              "tczewski",
+              "Gdańsk",
+              "Sopot"
+            ]
+       },
       "Gdyński",
       "Słupski"
    ],
@@ -248,6 +293,7 @@
             "bielski",
             "cieszyński",
             "pszczyński",
+            "żywiecki",
             "Bielsko-Biała"
          ]
       },
@@ -276,6 +322,7 @@
             "Jastrzębie-Zdrój",
             "Rybnik",
             "Żory",
+            "bieruńsko-lędziński",
             "Chorzów",
             "Katowice",
             "Mysłowice",
@@ -309,14 +356,86 @@
          "województwo":"warmińsko-mazurskie"
       }
    ],
+
    "wielkopolskie":[  
-      "Poznański",
-      "Kaliski",
-      "Koniński"
+       { "nazwa":"Poznański",
+           "powiaty": [
+              "chodzieski",
+              "czarnkowsko-trzcianecki",
+              "gostyński",
+              "grodziski",
+              "jarociński",
+              "kościański",
+              "leszczyński",
+              "międzychodzki",
+              "nowotomyski",
+              "obornicki",
+              "pilski",
+              "poznański",
+              "szamotulski",
+              "średzki",
+              "wolsztyński",
+              "wągrowiecki",
+              "złotowski",
+              "Poznań",
+              "Leszno"
+           ]
+       },
+       { "nazwa":"Kaliski",
+           "powiaty": [
+              "kaliski",
+              "kępiński",
+              "krotoszyński",
+              "ostrowski",
+              "ostrzeszowski",
+              "pleszewski",
+              "wrzesiński",
+              "rawicki",
+              "Kalisz"
+           ]
+       },
+       { "nazwa":"Koniński",
+          "powiaty": [
+              "gnieźnieński",
+              "kolski",
+              "koniński",
+              "słupecki",
+              "śremski",
+              "turecki",
+              "Konin"
+          ]
+       } 
    ],
    "zachodniopomorskie":[  
-      "Szczeciński",
-      "Koszaliński"
+       { "nazwa":"Szczeciński",
+            "powiaty": [
+              "goleniowski",
+              "gryficki",
+              "gryfiński",
+              "kamieński",
+              "łobeski",
+              "myśliborski",
+              "policki",
+              "pyrzycki",
+              "stargardzki",
+              "Szczecin",
+              "Świnoujście"
+            ]
+       },
+       { "nazwa":"Koszaliński",
+            "powiaty": [
+              "białogardzki",
+              "choszczeński",
+              "drawski",
+              "kołobrzeski",
+              "koszaliński",
+              "sławieński",
+              "szczecinecki",
+              "świdwiński",
+              "wałecki",
+              "Koszalin"
+            ]
+       } 
    ],
    "Zagranica":[  
       "Berlin",
